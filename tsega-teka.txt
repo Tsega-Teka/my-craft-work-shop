@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 i am done the assignment.
 i got problem to sebmit.
+=======
+
+>>>>>>> daf84747383083ca1c508313ac4c2848bd1bbcbe
